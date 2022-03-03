@@ -81,14 +81,14 @@ local sponsor = GetMissionSponsor()
     end
     g_Consts.BuildingDailyDustAccumulation = 2500
 end,
-	goal_1_param_1 = "150",
+	goal_1_param_1 = "500",
 	goal_1_param_2 = "Water",
-	goal_2_param_1 = "1000000",
+	goal_2_param_1 = "2000000",
 	goal_3_param_1 = "20",
 	goal_3_param_2 = "botanist",
 	goal_4_param_1 = "4",
 	goal_4_param_2 = "HydroPlant",
-	goal_5_param_1 = "2000",
+	goal_5_param_1 = "5000",
 	goal_5_param_2 = "food",
 	goal_image_1 = "AppData/Mods/Turkey/Assets/UI/Messages/Goals/mission_goal_06.png",
 	goal_image_2 = "AppData/Mods/Turkey/Assets/UI/Messages/Goals/mission_goal_10.png",
