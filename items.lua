@@ -27,7 +27,7 @@ PlaceObj('ModItemBuildingTemplate', {
 	'display_icon', "AppData/Mods/Turkey/Assets/UI/Icons/Buildings/water_extractor.png",
 	'water_consumption', 2000,
 	'air_consumption', 0,
-	'electricity_production', 30000,
+	'electricity_production', 35000,
 	'sponsor_name1', "Turkey",
 	'sponsor_status1', "Required",
 	'sponsor_name2', "Turkey",
