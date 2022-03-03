@@ -4,11 +4,11 @@ Hoş Geldin! A simple mod that adds a Turkish sponsor option to Surviving Mars. 
 
 ## SPONSOR DETAILS
 
-Difficulty: Hard
-Funding: $3500M
-Starting Rockets: 1
-Research per Sol: 100
-Rare Metals price: $22M
+**Difficulty**: Hard  
+**Funding**: $3500M  
+**Starting Rockets**: 1  
+**Research per Sol**: 100  
+**Rare Metals price**: $22M  
 
 - **Hydroelectric Plant**: A unique building that uses water to generate electricity (presently using a placeholder model)
 - **Bonus Tech**: _Dry Farming_ (reduces the water consumption of all crops by 50%)
