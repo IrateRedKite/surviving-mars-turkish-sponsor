@@ -72,7 +72,7 @@ PlaceObj('ModItemMissionSponsorPreset', {
 	default_skin = "Facet",
 	difficulty = T(504605359575, --[[ModItemMissionSponsorPreset Default Turkey difficulty]] "Hard"),
 	display_name = T(127405538777, --[[ModItemMissionSponsorPreset Default Turkey display_name]] "Turkey"),
-	effect = T(634702533306, --[[ModItemMissionSponsorPreset Default Turkey effect]] "Research per Sol: 150\nRare Metals price: $<ExportPricePreciousMetals> M\n\n- <color em>Hydroelectric Plant</color> A unique building that uses water to generate electricity \n- Bonus Tech: <color em>Dry Farming</color> (reduces the water consumption of all crops by 50%)\n-<color em>Water Extractors</color> Operate at increased efficiency\n- Out-Dome buildings accumulate dust at a slower rate \n-All construction concrete costs are increased by 25% <color em>(drawback)</color>"),
+	effect = T(634702533306, --[[ModItemMissionSponsorPreset Default Turkey effect]] "Research per Sol: 150\nRare Metals price: $<ExportPricePreciousMetals> M\n\n- <color em>Hydroelectric Plant</color> A unique building that uses water to generate electricity \n- Bonus Tech: <color em>Dry Farming</color> (reduces the water consumption of all crops by 50%)\n-<color em>Water Extractors</color> Operate at increased efficiency\n- Out-Dome buildings accumulate dust at a slower rate \n-All concrete costs are increased by 25% <color em>(drawback)</color>"),
 	funding = 3500,
 	game_apply = function (self, city)
 local sponsor = GetMissionSponsor()
