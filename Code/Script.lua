@@ -1,7 +1,7 @@
 --Defines the new class for the Hydro Plant
 
 DefineClass.HydroPlant = {
-	__parents = { "Building", "ElectricityProducer", "LifeSupportConsumer"},
+	__parents = { "Building", "ShiftsBuilding", "ElectricityProducer", "LifeSupportConsumer"},
 	}
 
 --Creates the new nationality tables for the sponsor
