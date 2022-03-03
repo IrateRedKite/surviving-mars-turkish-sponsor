@@ -18,7 +18,7 @@ c = tablelength(Nations)
 
 --Appends the new nation to the Nations table
 if c >= 12 then
-Nations[#Nations+1] = {value = "Turkish", text = "Turkey", flag = CurrentModPath .. "Assets/flag-turkey.png"}
+Nations[#Nations+1] = {value = "Turkish", text = "Turkey", flag = CurrentModPath .. "Assets/flag-tr.dds"}
 end
 
 --Appends the new names to the HumanNames table
