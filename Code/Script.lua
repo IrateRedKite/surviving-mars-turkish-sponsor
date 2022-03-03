@@ -1809,7 +1809,7 @@ Family = {
 "Batuk",
 "Batur",
 "Bayar",
-"Bayat_(tribe)",
+"Bayat",
 "Baybaşin",
 "Baydar",
 "Bayındır",
