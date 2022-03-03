@@ -19,7 +19,7 @@ Hoş Geldin! A simple mod that adds a Turkish sponsor option to Surviving Mars. 
 ## SPONSOR GOALS
 
 - Extract 500 Water from and underground deposit (1 Moisture Vaporator prefab)
-- Generate 2000 electricity (10 Workaholic Botanist Applicants)
+- Generate 250 electricity (10 Workaholic Botanist Applicants)
 - Have 20 Martianborn Botanists ($1500M funding)
 - Have 4 Hydroelectric Plants (5000 research)
 - Produce 5000 food (New rocket)
