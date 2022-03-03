@@ -37,15 +37,20 @@ PlaceObj('ModItemCode', {
 PlaceObj('ModItemCode', {
 	'FileName', "Code/IconFix.lua",
 }),
-PlaceObj('ModItemDecalEntity', nil),
+PlaceObj('ModItemDecalEntity', {
+	'name', "TurkeyDecal",
+	'entity_name', "TurkeyDecal",
+	'display_name', "TurkeyDecal",
+	'filename', "Assets/logo-turkey.png",
+}),
 PlaceObj('ModItemMissionLogoPreset', {
 	SortKey = 100000,
-	display_name = T(508558615279, --[[ModItemMissionLogoPreset TurkeyLogo display_name]] "Turkey"),
+	display_name = T(508558615279, --[[ModItemMissionLogoPreset TurkeyDecal display_name]] "Turkey"),
 	entity_name = "TurkeyDecal",
 	filter = function (self) return true end,
 	group = "Default",
-	id = "TurkeyLogo",
-	image = "Assets/logo-turkey.png",
+	id = "TurkeyDecal",
+	image = "UI/TurkeyDecalUI.tga",
 }),
 PlaceObj('ModItemMissionSponsorPreset', {
 	Drone = 6,
@@ -59,7 +64,7 @@ PlaceObj('ModItemMissionSponsorPreset', {
 	RCTransport = 1,
 	cargo = 50000,
 	challenge_mod = 90,
-	default_logo = "TurkeyLogo",
+	default_logo = "TurkeyDecal",
 	default_skin = "Facet",
 	difficulty = T(504605359575, --[[ModItemMissionSponsorPreset Default Turkey difficulty]] "Hard"),
 	display_name = T(127405538777, --[[ModItemMissionSponsorPreset Default Turkey display_name]] "Turkey"),
