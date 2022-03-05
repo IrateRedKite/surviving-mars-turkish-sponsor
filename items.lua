@@ -47,6 +47,21 @@ PlaceObj('ModItemDecalEntity', {
 	'entity_name', "TurkeyDecal",
 	'filename', "Assets/logo-turkey.png",
 }),
+PlaceObj('ModItemEntity', {
+	'name', "Flag_03_Turkey",
+	'entity_name', "Flag_03_Turkey",
+	'import', "Entities/Flag_03_Turkey.ent",
+}),
+PlaceObj('ModItemEntity', {
+	'name', "Flag_02_Turkey",
+	'entity_name', "Flag_02_Turkey",
+	'import', "Entities/Flag_02_Turkey.ent",
+}),
+PlaceObj('ModItemEntity', {
+	'name', "Flag_01_Turkey",
+	'entity_name', "Flag_01_Turkey",
+	'import', "Entities/Flag_01_Turkey.ent",
+}),
 PlaceObj('ModItemMissionLogoPreset', {
 	SortKey = 100000,
 	display_name = T(508558615279, --[[ModItemMissionLogoPreset TurkeyDecal display_name]] "Turkey"),
@@ -70,6 +85,7 @@ PlaceObj('ModItemMissionSponsorPreset', {
 	challenge_mod = 170,
 	default_logo = "TurkeyDecal",
 	default_skin = "Facet",
+	banners_name = "Turkey",
 	difficulty = T(504605359575, --[[ModItemMissionSponsorPreset Default Turkey difficulty]] "Hard"),
 	display_name = T(127405538777, --[[ModItemMissionSponsorPreset Default Turkey display_name]] "Turkey"),
 	effect = T(634702533306, --[[ModItemMissionSponsorPreset Default Turkey effect]] "Research per Sol: <research(SponsorResearch)>\nRare Metals price: $<ExportPricePreciousMetals> M\n\n- <color em>Hydroelectric Plant</color> A unique building that uses water to generate electricity \n- Bonus Tech: <color em>Dry Farming</color> (reduces the water consumption of all crops by 50%)\n- <color em>Water Extractors</color> operate at increased efficiency\n- Out-Dome buildings accumulate dust at a slower rate \n- All concrete costs are increased by 25% <color em>(drawback)</color>"),
