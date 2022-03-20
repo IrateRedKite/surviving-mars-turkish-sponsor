@@ -1,0 +1,21 @@
+ID,Text,Translation
+999912331,Turkey,Türkiye
+999912332,Turkish,Türkçe
+999912333,Hydroelectric Plant,Hidroelektrik Santrali
+999912334,Hydroelectric Plants,Hidroelektrik Santraller
+999912335,Produces electricity from water.,Sudan elektrik üretir.
+999912336,"Research per Sol: <research(SponsorResearch)>
+Rare Metals price: $<ExportPricePreciousMetals> M
+
+- <color em>Hydroelectric Plant</color> A unique building that uses water to generate electricity
+- Bonus Tech: <color em>Dry Farming</color> (reduces the water consumption of all crops by 50%)
+ <color em>Water Extractors</color> operate at increased efficiency
+- Out-Dome buildings accumulate dust at a slower rate
+- All concrete costs are increased by 25% <color em>(drawback)</color>","Sol başına Araştırma: <research(SponsorResearch)>
+Nadir Metal Fiyatı: $<ExportPricePreciousMetals> M
+
+- <color em>Hidroelektrik Santrali</color> Elektrik üretmek için suyu kullanan özel bir bina
+- Bonus Teknoloji: <color em>Kuru Çiftçilik</color> (tüm ekinlerin su tüketimini yarı yarıya azaltır)
+- <color em>Su Sondaj Tesisleri</color> arttırılmış verimlilikte çalışır
+- Kubbe dışı binalar daha yavaş bir hızda tozlanır 
+- Tüm beton maliyetleri %25 arttırıldı <color em>(dezavantaj)</color>"
