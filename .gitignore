@@ -1,2 +1,7 @@
-
+#Metadata
 metadata.lua
+
+#Development
+.idea/
+.vscode/
+.vs/
